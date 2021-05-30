@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Pasquale Palombo and 🔭 I’m currently working on my site, improving my programming skill.
+
 <!--
 **pasqualepalombo/pasqualepalombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
