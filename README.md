@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Pasquale Palombo and 🔭 I’m currently working on my site, improving my programming skill.
+I'm Pasquale Palombo and 🔭 I’m currently working on my videogame Mi.m.i.c.
+Mi.m.i.c. is an action roguelike with dungeon crawler elements. Players control a Mimic, exploring randomly generated levels and protect them by the incoming heroes, fighting enemies, and collecting power-ups. The game offers high replayability with numerous items, bosses, and curious events.
 
 <!--
 **pasqualepalombo/pasqualepalombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
