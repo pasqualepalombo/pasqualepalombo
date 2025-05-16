@@ -5,11 +5,11 @@ In questa pagina puoi trovare i vari progetti pubblici per farti un'idea di ciò
 
 [Food me!](https://github.com/pasqualepalombo/foodme) (Angular, TypeScript, .NET) - Un sito per ordinare cibo, ma che mostra anche le ricette (ho il mio clone come ricettario)
 
-ClassSimulation [link alla repo] (PHP, interfacciamento Machine Learning) - È la mia tesi di Laurea. Utilizzando il ML presso La Sapienza, vengono create classi virtuali di studenti, stimati i comportamenti, ridisposti e assegnati per il Peer Assessment. Dopodiché una votazione automatica stima la correttezza delle risposte del PA cercando di ridurre l'intervento umano da parte del professore. Per ridurre le dipendenze e massimizzare la portabilità, utilizza JSON per non dipendere da nessun database.
+[ClassSimulation](https://github.com/pasqualepalombo/ClassSimulation) (PHP, interfacciamento Machine Learning) - È la mia tesi di Laurea. Utilizzando il ML presso La Sapienza, vengono create classi virtuali di studenti, stimati i comportamenti, ridisposti e assegnati per il Peer Assessment. Dopodiché una votazione automatica stima la correttezza delle risposte del PA cercando di ridurre l'intervento umano da parte del professore. Per ridurre le dipendenze e massimizzare la portabilità, utilizza JSON per non dipendere da nessun database.
 
-What If Demo [link alla repo] (Godot 3.5, GDScript, Python) - È una piccolissima demo di un videogioco RPG in 2D con scelta multipla e progressione non lineare.
+[What If Demo](https://github.com/pasqualepalombo/what-if-demo) (Godot 3.5, GDScript, Python) - È una piccolissima demo di un videogioco RPG in 2D con scelta multipla e progressione non lineare.
 
-advwork [link alla repo] (Moodle, PHP, MySQL, interfacciamento Machine Learning) - È la versione precedente della tesi. Inizialmente doveva funzionare sul modulo AdvWork di Moodle, ma poi abbiamo deciso di avere una piattaforma standalone.
+[advwork](https://github.com/pasqualepalombo/advwork) (Moodle, PHP, MySQL, interfacciamento Machine Learning) - È la versione precedente della tesi. Inizialmente doveva funzionare sul modulo AdvWork di Moodle, ma poi abbiamo deciso di avere una piattaforma standalone.
 
 ## English Version
 I'm Pasquale Palombo and welcome to my GitHub page. I'm a Computer Engineer and throughout my education, besides keeping myself updated in the technology world, I also enjoy developing video games (mi.mi.co is the roguelike game I plan to present at the next Steam Next Fest).
