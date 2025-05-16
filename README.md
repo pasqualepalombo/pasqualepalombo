@@ -1,17 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
 Sono Pasquale Palombo e benvenuto/a nella mia pagina GitHub. Sono un Ingegnere Informatico e nella mia formazione, oltre a tenermi aggiornato nel mondo della tecnologia, mi piace anche sviluppare videogiochi (mi.mi.co è il gioco roguelike che ho intenzione di presentare per il prossimo Steam Next Fest).
 In questa pagina puoi trovare i vari progetti pubblici per farti un'idea di ciò che mi piace e so fare:
 
-[Food me!](https://github.com/pasqualepalombo/foodme) (Angular, TypeScript, .NET) - Un sito per ordinare cibo, ma che mostra anche le ricette (ho il mio clone come ricettario)
+:hamburger:[Food me!](https://github.com/pasqualepalombo/foodme) (Angular, TypeScript, .NET) - Un sito per ordinare cibo, ma che mostra anche le ricette (ho il mio clone come ricettario)
 
-[ClassSimulation](https://github.com/pasqualepalombo/ClassSimulation) (PHP, interfacciamento Machine Learning) - È la mia tesi di Laurea. Utilizzando il ML presso La Sapienza, vengono create classi virtuali di studenti, stimati i comportamenti, ridisposti e assegnati per il Peer Assessment. Dopodiché una votazione automatica stima la correttezza delle risposte del PA cercando di ridurre l'intervento umano da parte del professore. Per ridurre le dipendenze e massimizzare la portabilità, utilizza JSON per non dipendere da nessun database.
+:raising_hand:[ClassSimulation](https://github.com/pasqualepalombo/ClassSimulation) (PHP, interfacciamento Machine Learning) - È la mia tesi di Laurea. Utilizzando il ML presso La Sapienza, vengono create classi virtuali di studenti, stimati i comportamenti, ridisposti e assegnati per il Peer Assessment. Dopodiché una votazione automatica stima la correttezza delle risposte del PA cercando di ridurre l'intervento umano da parte del professore. Per ridurre le dipendenze e massimizzare la portabilità, utilizza JSON per non dipendere da nessun database.
 
-[What If Demo](https://github.com/pasqualepalombo/what-if-demo) (Godot 3.5, GDScript, Python) - È una piccolissima demo di un videogioco RPG in 2D con scelta multipla e progressione non lineare.
+:video_game:[What If Demo](https://github.com/pasqualepalombo/what-if-demo) (Godot 3.5, GDScript, Python) - È una piccolissima demo di un videogioco RPG in 2D con scelta multipla e progressione non lineare.
 
-[advwork](https://github.com/pasqualepalombo/advwork) (Moodle, PHP, MySQL, interfacciamento Machine Learning) - È la versione precedente della tesi. Inizialmente doveva funzionare sul modulo AdvWork di Moodle, ma poi abbiamo deciso di avere una piattaforma standalone.
+:information_desk_person:[advwork](https://github.com/pasqualepalombo/advwork) (Moodle, PHP, MySQL, interfacciamento Machine Learning) - È la versione precedente della tesi. Inizialmente doveva funzionare sul modulo AdvWork di Moodle, ma poi abbiamo deciso di avere una piattaforma standalone.
 
-## English Version
+### English Version
 I'm Pasquale Palombo and welcome to my GitHub page. I'm a Computer Engineer and throughout my education, besides keeping myself updated in the technology world, I also enjoy developing video games (mi.mi.co is the roguelike game I plan to present at the next Steam Next Fest).
 On this page, you can find various public projects to get an idea of what I like and what I can do:
 
