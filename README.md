@@ -4,7 +4,7 @@ Sono Pasquale Palombo e benvenuto/a nella mia pagina GitHub. Sono un Ingegnere I
 
 EN: I'm Pasquale Palombo and welcome to my GitHub page. I'm a Computer Engineer and throughout my education, besides keeping myself updated in the technology world, I also enjoy developing video games (mi.mi.co is the roguelike game I plan to present at the next Steam Next Fest). On this page, you can find various public projects to get an idea of what I like and what I can do<br/>
 
-:hamburger:[Food me!](https://github.com/pasqualepalombo/foodme) (Angular, TypeScript, .NET)<br/>
+:hamburger:[Food me!](https://github.com/pasqualepalombo/foodme) (Angular, TypeScript, MongoDB) On Progress<br/>
 IT: Un sito per ordinare cibo, ma che mostra anche le ricette (ho il mio clone come ricettario)<br/>
 EN: A website for ordering food that also shows recipes (I have my own clone as a recipe book)<br/>
 
