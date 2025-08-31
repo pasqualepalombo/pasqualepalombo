@@ -4,6 +4,10 @@ Sono Pasquale Palombo e benvenuto/a nella mia pagina GitHub. Sono un Ingegnere I
 
 EN: I'm Pasquale Palombo and welcome to my GitHub page. I'm a Computer Engineer and throughout my education, besides keeping myself updated in the technology world, I also enjoy developing video games (mi.mi.co is the roguelike game I plan to present at the next Steam Next Fest). On this page, you can find various public projects to get an idea of what I like and what I can do<br/>
 
+:sunny:[MoodTracker](https://github.com/pasqualepalombo/mood-tracker?tab=readme-ov-file) (JavaScript, HTML5, CSS3, JSON, Node.js, Express.js, REST API, Vercel, Warp)<br/>
+IT: App web per segnare l’umore e vedere correlazioni col meteo. Creata con il solo scopo di allenamento e utilizzo di diverse tecnologie.
+EN: Web app to log your mood and see correlations with the weather. Built solely for practice and experimenting with different technologies.
+
 :hamburger:[Food me!](https://github.com/pasqualepalombo/foodme) (Angular, TypeScript, MongoDB) On Progress<br/>
 IT: Un sito per ordinare cibo, ma che mostra anche le ricette (ho il mio clone come ricettario)<br/>
 EN: A website for ordering food that also shows recipes (I have my own clone as a recipe book)<br/>
