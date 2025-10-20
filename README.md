@@ -12,6 +12,10 @@ EN: Web app to log your mood and see correlations with the weather. Built solely
 IT: Un sito per ordinare cibo, ma che mostra anche le ricette (ho il mio clone come ricettario)<br/>
 EN: A website for ordering food that also shows recipes (I have my own clone as a recipe book)<br/>
 
+:fountain_pen:[To-do-app](https://github.com/pasqualepalombo/to-do-app) (Angular, primeNG, Quarkus, Java, PostgreSQL, REST)<br/>
+IT: Sviluppato per scopi educativi come introduzione a Quarkus, Angular, PrimeNG e PostgreSQL.<br/>
+EN: A website developed for education purposes.<br/>
+
 :raising_hand:[ClassSimulation](https://github.com/pasqualepalombo/ClassSimulation) (PHP, interfacciamento Machine Learning)<br/>
 IT: È la mia tesi di Laurea. Utilizzando il ML presso La Sapienza, vengono create classi virtuali di studenti, stimati i comportamenti, ridisposti e assegnati per il Peer Assessment. Dopodiché una votazione automatica stima la correttezza delle risposte del PA cercando di ridurre l'intervento umano da parte del professore. Per ridurre le dipendenze e massimizzare la portabilità, utilizza JSON per non dipendere da nessun database.<br/>
 EN: This is my thesis project. Using ML at La Sapienza University, virtual classes of students are created, behaviors are estimated, and students are reorganized and assigned for Peer Assessment. Then, an automatic evaluation system estimates the correctness of PA answers, aiming to reduce human intervention by professors. To reduce dependencies and maximize portability, it uses JSON instead of relying on any database.<br/>
