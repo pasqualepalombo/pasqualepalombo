@@ -4,7 +4,7 @@ Sono Pasquale Palombo e benvenuto/a nella mia pagina GitHub. Sono un Ingegnere I
 
 EN: I'm Pasquale Palombo and welcome to my GitHub page. I'm a Computer Engineer and throughout my education, besides keeping myself updated in the technology world, I also enjoy developing video games (mi.mi.co is the roguelike game I plan to present at the next Steam Next Fest). On this page, you can find various public projects to get an idea of what I like and what I can do<br/>
 
-🖥️:[Common Ports Scanner](https://github.com/pasqualepalombo/Common-Ports-Scanner) (Python3)<br/>
+🖥️[Common Ports Scanner](https://github.com/pasqualepalombo/Common-Ports-Scanner) (Python3)<br/>
 IT: Un port scanner Python leggero per la ricognizione di rete e i test di sicurezza.
 EN: A lightweight Python port scanner for network reconnaissance and security testing.
 
